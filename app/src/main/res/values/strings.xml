@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAM_S7_001CL</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_notas" >Notas</string>
+    <string name="title_favoritas" >Favoritas</string>
+    <string name="title_user_profile">My Perfil</string>
+</resources>

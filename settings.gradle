@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DAM_S7_001CL"
